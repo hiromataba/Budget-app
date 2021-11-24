@@ -18,7 +18,7 @@ We are building a mobile web application where you can manage your budget: you h
 
 ## Live Link
 
-[Live Demo]()
+[Live Demo](https://hiro-budget-app.herokuapp.com/)
 
 ## Getting Started
 

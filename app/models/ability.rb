@@ -5,7 +5,6 @@ class Ability
     return unless user.present?
 
     can :manage, Deal, author: user
-    
     can :manage, Category, user: user
   end
 end

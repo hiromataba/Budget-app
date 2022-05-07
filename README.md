@@ -2,7 +2,7 @@
 
 ![Microverse](https://img.shields.io/badge/Microverse-blueviolet)
 
-> A mobile web application to manage your budgets
+> This is a mobile web application to manage your budgets
 
 # App Screenshot
 

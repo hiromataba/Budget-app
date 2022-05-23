@@ -4,7 +4,7 @@
 
 > This is a mobile web application to manage your budgets
 
-# App Screenshot
+# Application Screenshot
 
 ![image](https://user-images.githubusercontent.com/75126481/143196248-cbf88eed-c5fc-4b2d-b608-56e874332ec6.png)
 

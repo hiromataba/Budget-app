@@ -1,4 +1,4 @@
-# Budget App
+# Budget Application
 
 ![Microverse](https://img.shields.io/badge/Microverse-blueviolet)
 
